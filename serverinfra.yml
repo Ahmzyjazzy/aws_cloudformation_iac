@@ -59,9 +59,8 @@ Resources:
           sudo apt-get update -y
           sudo apt-get install apache2 -y
           sudo systemctl start apache2.service  
-          echo 'udagram it works'        
+          echo "it works! Udagram, Udacity." > /var/www/html/index.html       
       ImageId: ami-0747bdcabd34c712a
-      KeyName: SecureServer
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t3.medium
