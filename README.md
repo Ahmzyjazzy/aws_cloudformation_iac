@@ -23,4 +23,4 @@ The following are the screenshot steps of generated resources after deployment o
 ![Security group](/screenshots/security_group.png?raw=true "Security group")
 
 ## Infrastrucre Stacks
-![Infrastrucre Stacks](/screenshots/stacks?raw=true "Infrastrucre Stacks")
+![Infrastrucre Stacks](/screenshots/stacks.png?raw=true "Infrastrucre Stacks")
