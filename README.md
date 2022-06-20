@@ -14,7 +14,7 @@ In YAML code, the `${EnvironmentName}` would be substituted with `AhmzyUdacityPr
 The following are the screenshot steps of generated resources after deployment of infrastructure
 
 ## Auto Scaling
-[Auto Scaling](/screenshots/autoscaling_group.png?raw=true "Auto Scaling")
+![Auto Scaling](/screenshots/autoscaling_group.png?raw=true "Auto Scaling")
 
 ## Load balancer
 ![Load balancer](/screenshots/loadbalancer.png?raw=true "Load balancer")
